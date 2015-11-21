@@ -1,0 +1,68 @@
+  h1, h2, h3 {font-family: 'Helvetica'}
+
+  body {
+  background-color:#FFCC66;
+  font-family: 'Arial';
+  }
+
+  .container {
+  width:960px;
+  margin: 0 auto;
+  }
+
+  .content {
+  box-sizing:border-box;
+  background-color: #FFFFCC;
+  margin-right: 20em;
+  line-height: 3em;
+  }
+  .logo{
+  width: 200px;
+  background-color: #283f59;
+  }
+  #map {
+      <!--Trying to center map on page>
+      margin: 0 auto;
+      }
+
+  #nn-title {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 300%;
+    color: black;
+    box-sizing:border-box;
+    margin: 0;
+    padding-left: 3em;
+    padding-right: 3em;
+    margin-bottom: 20px;
+  }
+  #nn-navbar {
+    font-family: arial;
+    color: #f99e16;
+    background-color: #FFFFCC;
+    width: 960px;
+    margin: 0;
+    }
+  .navbar {
+    box-sizing: border-box;
+    text-align: center;
+    padding: 20px;
+    margin: 40px;
+    width: 600px;
+    height: 50px;
+    background-color: grey;
+    }
+  .navbutton {
+    box-sizing: border-box;
+    padding: auto;
+    margin: 50px;
+    width: 50px;
+    }
+  #footer {
+    box-sizing: border-box;
+    border:2px dotted-red;
+    padding: 20px;
+    margin: 40px;
+    width: 600px;
+    height: 40px;
+    }

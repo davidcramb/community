@@ -1,0 +1,9 @@
+{
+  "firebase": "noisy-neighbors",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
